@@ -1,0 +1,5 @@
+trello:https://trello.com/invite/b/67c65d9c80bdb89b5a006ec0/ATTI0911b7773697721f50044b6925afab731C20C542/gestion-de-control-de-vuelos
+
+figma:https://www.figma.com/design/HyVQbskB355Atz23a1hncK/Untitled?node-id=0-1&t=nrERlrrq9tzMc1XY-1
+
+GitHub: https://github.com/JUANDAX233/programacion-movil-2025-a-g1.git
